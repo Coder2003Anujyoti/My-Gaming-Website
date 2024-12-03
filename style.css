@@ -136,7 +136,6 @@
   color:#111;
   background:#39ff14;
   box-shadow:0 0 50px #39ff14;
- border:2px solid #39ff14;
 }
 #top1
 { position:absolute;
@@ -223,6 +222,7 @@
 }
 @media (min-width:1000px){
   body{
+    background-color: white;
     overflow-x:hidden;
   }
   #nav
@@ -255,6 +255,7 @@
   top:8px;
   left:0px;
 }
+
 #i1,#i2,#i3,#i4,#i5,#i6,#i7
 { width:785px;
   height:400px;
@@ -264,7 +265,7 @@
   display:none;
 }
 #back 
-{ width:1205px;
+{ width:1105px;
   height:401px;
 }
 #about
@@ -289,7 +290,7 @@
   width:500px;
 }
 #back2,#back3,#back4,#back6,#back1
-{ width:782px;
+{ width:1165px;
   height:400px;
   position:absolute;
   left:0px;
@@ -405,7 +406,7 @@
   left:0px;
 }
 #back5{
-  width:1704px;
+  width:1885px;
   height:400px;
 }
 #gamer
