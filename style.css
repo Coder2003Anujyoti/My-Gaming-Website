@@ -1,10 +1,13 @@
+*{
+  font-family:Arial,sans-serif;
+}
 #book
 { width:50px;
   height:50px;
   border-radius:100%;
   color:#111;
   font-weight:bolder;
-  font-size:55px;
+  font-size:35px;
   background:#39ff14;
   box-shadow:0 0 50px #39ff14;
   position:absolute;
@@ -201,7 +204,7 @@
 #msg
 { color:white;
   position:absolute;
-  left:250px;
+  left:280px;
   font-size:60px;
   top:30px;
 }
