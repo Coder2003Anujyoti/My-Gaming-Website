@@ -159,10 +159,11 @@
 }
 #text1,#text2,#text3,#text4,#text6,#text,#text5
 { top:250px;
-  left:20px;
+  left:30px;
   position:absolute;
   color:white;
   font-size:30px;
+ width:900px;
 }
 #top
 { position:absolute;
